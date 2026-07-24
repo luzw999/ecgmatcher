@@ -131,7 +131,7 @@ Third-party components remain subject to their respective original licenses. See
 ECGMatcher is intended for research analysis, algorithm validation, abnormality-screening support, and the reuse of historical image-based ECG records. Its outputs must not replace a physician’s comprehensive interpretation of the original electrocardiogram, clinical symptoms, medical history, and other examination findings. See [DISCLAIMER.md].
 
 ## 11. Contact Information
-* Repository: [https://github.com/luzw999/ecgmatcher]
+* Repository: [https://github.com/Intelligent-Imaging-Center/ecgmatcher]
 * Contact email: [luzw999@stu.xidian.edu.cn]
 
 
